@@ -1,5 +1,5 @@
 # Project-Navigator
-Project Navigator is a command-line tool designed to help developers quickly create and open PHP and Golang projects. It simplifies the process of setting up new projects and provides an easy way to open existing ones in your preferred code editor (VS Code).
+Project Navigator is a command-line tool designed to help developers quickly create and open PHP , Laravel and Golang projects. It simplifies the process of setting up new projects and provides an easy way to open existing ones in your preferred code editor (VS Code).
 
 ---
 
